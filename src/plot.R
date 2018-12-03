@@ -1,8 +1,8 @@
-pdf(file = "coolplot.pdf")
+sdpdf(file = "coolplot.pdf")
 hist(mtcars$disp)
 dev.off()
 
-
+asdfasd
 # Plot the points out:
 ggplot(gmpts, aes(longitude, latitude, group = status))+
   scale_fill_gradient(low = "grey70", high = "grey30", guide = "none") +
