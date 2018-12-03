@@ -1,7 +1,7 @@
 ## controller code to run pilot whale analysis
 
 
-source(src/readData.R)
-source(wrangle.R)
-source(plot.R)
-source(analysis.R)
+source('src/readData.R')
+source('src/wrangle.R')
+source('src/plot.R')
+source('src/analysis.R')
